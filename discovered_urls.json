@@ -1,0 +1,48 @@
+{
+    "삼성": [
+        "https://www.samsungcareers.com/hr/"
+    ],
+    "현대": [
+        "https://careers.hyundaigroup.com/jobs",
+        "https://recruit.ehyundai.com/recruit-info/announcement/list.nhd?jobCd=&coCd=&searchStr=",
+        "https://talent.hyundai.com/apply/applyList.hc?nfGubnC=ac85892205b92e8cecdc87185a3fbf039f04b2a7751ccf0e8a1f547d53b9945a&tagArray=&sortDataTagArray=&areaDataTagArray=&fieldDataTagArray=&occupDataTagArray=&intnsvYn=",
+        "https://career.hyundai-autoever.com/",
+        "https://career.kia.com/apply/applyList.kc?nfGubnC=37268bb0020007468bbc5a78ee13a6539b0a0a79bbfcdd7ad08406e8d43cd55f&searchText=&linkInfo=",
+        "https://careers.mobis.com/jobs",
+        "https://glovis.recruiter.co.kr/career/apply",
+        "https://hyundai-steel.recruiter.co.kr/career/apply"
+    ],
+    "SK": [
+        "https://www.skcareers.com/Recruit",
+        "https://careers.sk-materials.com/apply/jobList"
+    ],
+    "LG": [
+        "https://careers.lg.com/apply/"
+    ],
+    "한화": [
+        "https://www.hanwhain.com/portal/apply/recruit"
+    ],
+    "포스코": [
+        "https://recruit.posco.com/h22a01-front/H22A1000.html"
+    ],
+    "네이버": [
+        "https://recruit.navercorp.com/rcrt/list.do",
+        "https://recruit.naverlabs.com/",
+        "https://recruit.webtoonscorp.com/rcrt/list.do",
+        "https://recruit.naverfincorp.com/rcrt/list.do",
+        "https://recruit.navercloudcorp.com/rcrt/list.do"
+    ],
+    "카카오": [
+        "https://kakaopay.career.greetinghr.com/ko/main",
+        "https://recruit.kakaobank.com/jobs",
+        "https://careers.kakao.com/jobs?part=TECHNOLOGY",
+        "https://career.kakaostyle.com/jobs"
+    ],
+    "롯데": [
+        "https://recruit.lotte.co.kr/apply/announcement",
+        "https://lotte-36912recruit.com/"
+    ],
+    "한미": [
+        "https://hanmi.recruiter.co.kr/career/apply"
+    ]
+}
