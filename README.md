@@ -45,7 +45,7 @@ python scraper.py
 > **Tip:** 테스트 후 특정 회사의 발송 내역만 DB에서 지우려면 `sqlite3 jobs.db "DELETE FROM job_postings WHERE company='토스';"` 명령어를 활용하세요.
 
 ### 4. 🤖 깃허브 액션(GitHub Actions)으로 매일 자동 메일 받기 (추천)
-로컬 PC를 켜두지 않아도 깃허브 클라우드에서 매일 오전 9시, 오후 6시에 크롤러가 자동으로 실행되어 메일을 보내주게 할 수 있습니다.
+로컬 PC를 켜두지 않아도 깃허브 클라우드에서 매일 오전 8시, 오후 6시에 크롤러가 자동으로 실행되어 메일을 보내주게 할 수 있습니다.
 
 **1단계: 깃허브(GitHub)에 코드 올리기**
 1. 깃허브에 **Private Repository**를 새로 생성합니다.
